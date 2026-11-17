@@ -1,0 +1,2150 @@
+{
+    "format_version": 1,
+    "model_type": "word-level Markov chain",
+    "order": 2,
+    "source_files": [
+        "speech1.txt",
+        "speech2.txt",
+        "speech3.txt",
+        "speech4.txt",
+        "speech5.txt"
+    ],
+    "word_count": 612,
+    "token_count": 695,
+    "transitions": {
+        "good␟morning": {
+            "everyone": 1
+        },
+        "morning␟everyone": {
+            ".": 1
+        },
+        "everyone␟.": {
+            "Every": 1,
+            "Small": 1
+        },
+        ".␟every": {
+            "meaningful": 1
+        },
+        "every␟meaningful": {
+            "achievement": 1
+        },
+        "meaningful␟achievement": {
+            "begins": 1
+        },
+        "achievement␟begins": {
+            "with": 1
+        },
+        "begins␟with": {
+            "a": 1,
+            "noticing": 1
+        },
+        "with␟a": {
+            "clear": 1
+        },
+        "a␟clear": {
+            "goal": 1
+        },
+        "clear␟goal": {
+            "and": 1
+        },
+        "goal␟and": {
+            "the": 1
+        },
+        "and␟the": {
+            "willingness": 1
+        },
+        "the␟willingness": {
+            "to": 1
+        },
+        "willingness␟to": {
+            "take": 1,
+            "keep": 1
+        },
+        "to␟take": {
+            "the": 1
+        },
+        "take␟the": {
+            "first": 1
+        },
+        "the␟first": {
+            "step": 1,
+            "attempt": 1
+        },
+        "first␟step": {
+            ".": 1
+        },
+        "step␟.": {
+            "Progress": 1
+        },
+        ".␟progress": {
+            "is": 1
+        },
+        "progress␟is": {
+            "rarely": 1
+        },
+        "is␟rarely": {
+            "instant": 1
+        },
+        "rarely␟instant": {
+            ".": 1
+        },
+        "instant␟.": {
+            "It": 1
+        },
+        ".␟it": {
+            "is": 2,
+            "encourages": 1,
+            "helps": 1
+        },
+        "it␟is": {
+            "built": 1,
+            "new": 1,
+            "about": 1
+        },
+        "is␟built": {
+            "through": 2
+        },
+        "built␟through": {
+            "small": 1,
+            "consistent": 1
+        },
+        "through␟small": {
+            "actions": 1
+        },
+        "small␟actions": {
+            "repeated": 1,
+            "matter": 1
+        },
+        "actions␟repeated": {
+            "with": 1
+        },
+        "repeated␟with": {
+            "patience": 1
+        },
+        "with␟patience": {
+            "and": 1
+        },
+        "patience␟and": {
+            "care": 1
+        },
+        "and␟care": {
+            ".": 1
+        },
+        "care␟.": {
+            "When": 1
+        },
+        ".␟when": {
+            "we": 2,
+            "people": 1
+        },
+        "when␟we": {
+            "focus": 1,
+            "keep": 1
+        },
+        "we␟focus": {
+            "on": 1
+        },
+        "focus␟on": {
+            "learning": 1
+        },
+        "on␟learning": {
+            "instead": 1
+        },
+        "learning␟instead": {
+            "of": 1
+        },
+        "instead␟of": {
+            "looking": 1,
+            "being": 1
+        },
+        "of␟looking": {
+            "for": 1
+        },
+        "looking␟for": {
+            "shortcuts": 1
+        },
+        "for␟shortcuts": {
+            ",": 1
+        },
+        "shortcuts␟,": {
+            "we": 1
+        },
+        ",␟we": {
+            "develop": 1,
+            "can": 2
+        },
+        "we␟develop": {
+            "the": 1
+        },
+        "develop␟the": {
+            "confidence": 1
+        },
+        "the␟confidence": {
+            "to": 1
+        },
+        "confidence␟to": {
+            "handle": 1
+        },
+        "to␟handle": {
+            "difficult": 1
+        },
+        "handle␟difficult": {
+            "tasks": 1
+        },
+        "difficult␟tasks": {
+            ".": 1
+        },
+        "tasks␟.": {
+            "Education": 1
+        },
+        ".␟education": {
+            "gives": 1
+        },
+        "education␟gives": {
+            "people": 1
+        },
+        "gives␟people": {
+            "the": 1
+        },
+        "people␟the": {
+            "ability": 1
+        },
+        "the␟ability": {
+            "to": 1
+        },
+        "ability␟to": {
+            "ask": 1
+        },
+        "to␟ask": {
+            "questions": 2
+        },
+        "ask␟questions": {
+            ",": 1,
+            "and": 1
+        },
+        "questions␟,": {
+            "examine": 1
+        },
+        ",␟examine": {
+            "ideas": 1
+        },
+        "examine␟ideas": {
+            "and": 1
+        },
+        "ideas␟and": {
+            "make": 1
+        },
+        "and␟make": {
+            "informed": 1
+        },
+        "make␟informed": {
+            "decisions": 1
+        },
+        "informed␟decisions": {
+            ".": 1
+        },
+        "decisions␟.": {
+            "A": 1
+        },
+        ".␟a": {
+            "good": 2,
+            "strong": 1,
+            "useful": 1,
+            "student": 1,
+            "farmer": 1,
+            "small": 1
+        },
+        "a␟good": {
+            "learning": 1,
+            "leader": 1
+        },
+        "good␟learning": {
+            "environment": 1
+        },
+        "learning␟environment": {
+            "does": 1
+        },
+        "environment␟does": {
+            "more": 1
+        },
+        "does␟more": {
+            "than": 1
+        },
+        "more␟than": {
+            "prepare": 1
+        },
+        "than␟prepare": {
+            "someone": 1
+        },
+        "prepare␟someone": {
+            "for": 1
+        },
+        "someone␟for": {
+            "an": 1
+        },
+        "for␟an": {
+            "examination": 1
+        },
+        "an␟examination": {
+            ".": 1
+        },
+        "examination␟.": {
+            "It": 1
+        },
+        "it␟encourages": {
+            "curiosity": 1
+        },
+        "encourages␟curiosity": {
+            ",": 1
+        },
+        "curiosity␟,": {
+            "creativity": 1
+        },
+        ",␟creativity": {
+            "and": 1
+        },
+        "creativity␟and": {
+            "responsibility": 1
+        },
+        "and␟responsibility": {
+            ".": 2
+        },
+        "responsibility␟.": {
+            "Students": 1,
+            "Digital": 1
+        },
+        ".␟students": {
+            "should": 1
+        },
+        "students␟should": {
+            "feel": 1
+        },
+        "should␟feel": {
+            "comfortable": 1
+        },
+        "feel␟comfortable": {
+            "exploring": 1
+        },
+        "comfortable␟exploring": {
+            "new": 1
+        },
+        "exploring␟new": {
+            "subjects": 1
+        },
+        "new␟subjects": {
+            "and": 1
+        },
+        "subjects␟and": {
+            "learning": 1
+        },
+        "and␟learning": {
+            "from": 1
+        },
+        "learning␟from": {
+            "mistakes": 1
+        },
+        "from␟mistakes": {
+            ".": 1
+        },
+        "mistakes␟.": {
+            "The": 1
+        },
+        ".␟the": {
+            "future": 1
+        },
+        "the␟future": {
+            "is": 1
+        },
+        "future␟is": {
+            "shaped": 1
+        },
+        "is␟shaped": {
+            "by": 1
+        },
+        "shaped␟by": {
+            "the": 1
+        },
+        "by␟the": {
+            "choices": 1
+        },
+        "the␟choices": {
+            "we": 1
+        },
+        "choices␟we": {
+            "make": 1
+        },
+        "we␟make": {
+            "today": 1
+        },
+        "make␟today": {
+            ".": 1
+        },
+        "today␟.": {
+            "Let": 1
+        },
+        ".␟let": {
+            "us": 2
+        },
+        "let␟us": {
+            "use": 1,
+            "measure": 1
+        },
+        "us␟use": {
+            "our": 1
+        },
+        "use␟our": {
+            "time": 1
+        },
+        "our␟time": {
+            "wisely": 1
+        },
+        "time␟wisely": {
+            ",": 1
+        },
+        "wisely␟,": {
+            "support": 1
+        },
+        ",␟support": {
+            "one": 1
+        },
+        "support␟one": {
+            "another": 1
+        },
+        "one␟another": {
+            "and": 1,
+            ".": 1
+        },
+        "another␟and": {
+            "keep": 1
+        },
+        "and␟keep": {
+            "improving": 1
+        },
+        "keep␟improving": {
+            ".": 1
+        },
+        "improving␟.": {
+            "A": 1
+        },
+        "a␟strong": {
+            "community": 1
+        },
+        "strong␟community": {
+            "is": 1
+        },
+        "community␟is": {
+            "created": 1
+        },
+        "is␟created": {
+            "when": 1
+        },
+        "created␟when": {
+            "people": 1
+        },
+        "when␟people": {
+            "share": 1,
+            "are": 1
+        },
+        "people␟share": {
+            "knowledge": 1
+        },
+        "share␟knowledge": {
+            "and": 1
+        },
+        "knowledge␟and": {
+            "work": 1
+        },
+        "and␟work": {
+            "towards": 1
+        },
+        "work␟towards": {
+            "common": 1
+        },
+        "towards␟common": {
+            "goals": 1
+        },
+        "common␟goals": {
+            ".": 1
+        },
+        "friends␟,": {
+            "Technology": 1,
+            "Leadership": 1,
+            "A": 1
+        },
+        ",␟technology": {
+            "has": 1
+        },
+        "technology␟has": {
+            "become": 1
+        },
+        "has␟become": {
+            "part": 1
+        },
+        "become␟part": {
+            "of": 1
+        },
+        "part␟of": {
+            "almost": 1
+        },
+        "of␟almost": {
+            "every": 1
+        },
+        "almost␟every": {
+            "area": 1
+        },
+        "every␟area": {
+            "of": 1
+        },
+        "area␟of": {
+            "daily": 1
+        },
+        "of␟daily": {
+            "life": 1
+        },
+        "daily␟life": {
+            ".": 1
+        },
+        "life␟.": {
+            "It": 1,
+            "Let": 1
+        },
+        "it␟helps": {
+            "people": 1
+        },
+        "helps␟people": {
+            "communicate": 1,
+            "and": 1
+        },
+        "people␟communicate": {
+            ",": 1
+        },
+        "communicate␟,": {
+            "learn": 1
+        },
+        ",␟learn": {
+            ",": 1
+        },
+        "learn␟,": {
+            "create": 1
+        },
+        ",␟create": {
+            "and": 1
+        },
+        "create␟and": {
+            "solve": 1
+        },
+        "and␟solve": {
+            "practical": 1
+        },
+        "solve␟practical": {
+            "problems": 1
+        },
+        "practical␟problems": {
+            ".": 1
+        },
+        "problems␟.": {
+            "A": 1
+        },
+        "a␟useful": {
+            "invention": 1
+        },
+        "useful␟invention": {
+            "is": 1
+        },
+        "invention␟is": {
+            "not": 1
+        },
+        "is␟not": {
+            "valuable": 1,
+            "simply": 1
+        },
+        "not␟valuable": {
+            "only": 1
+        },
+        "valuable␟only": {
+            "because": 1
+        },
+        "only␟because": {
+            "it": 1
+        },
+        "because␟it": {
+            "is": 1
+        },
+        "is␟new": {
+            ";": 1
+        },
+        "new␟;": {
+            "it": 1
+        },
+        ";␟it": {
+            "becomes": 1
+        },
+        "it␟becomes": {
+            "valuable": 1
+        },
+        "becomes␟valuable": {
+            "when": 1
+        },
+        "valuable␟when": {
+            "it": 1
+        },
+        "when␟it": {
+            "makes": 1
+        },
+        "it␟makes": {
+            "life": 1
+        },
+        "makes␟life": {
+            "easier": 1
+        },
+        "life␟easier": {
+            ",": 1
+        },
+        "easier␟,": {
+            "safer": 1
+        },
+        ",␟safer": {
+            "or": 1
+        },
+        "safer␟or": {
+            "more": 1
+        },
+        "or␟more": {
+            "productive": 1
+        },
+        "more␟productive": {
+            ".": 1
+        },
+        "productive␟.": {
+            "We": 1
+        },
+        ".␟we": {
+            "should": 3
+        },
+        "we␟should": {
+            "approach": 1,
+            "understand": 1,
+            "make": 1
+        },
+        "should␟approach": {
+            "technology": 1
+        },
+        "approach␟technology": {
+            "with": 1
+        },
+        "technology␟with": {
+            "both": 1
+        },
+        "with␟both": {
+            "curiosity": 1
+        },
+        "both␟curiosity": {
+            "and": 1
+        },
+        "curiosity␟and": {
+            "responsibility": 1
+        },
+        ".␟digital": {
+            "tools": 1
+        },
+        "digital␟tools": {
+            "can": 1
+        },
+        "tools␟can": {
+            "provide": 1
+        },
+        "can␟provide": {
+            "access": 1
+        },
+        "provide␟access": {
+            "to": 1
+        },
+        "access␟to": {
+            "information": 1,
+            "learning": 1
+        },
+        "to␟information": {
+            ",": 1
+        },
+        "information␟,": {
+            "but": 1
+        },
+        ",␟but": {
+            "we": 1,
+            "they": 1,
+            "also": 1
+        },
+        "but␟we": {
+            "must": 1
+        },
+        "we␟must": {
+            "also": 1
+        },
+        "must␟also": {
+            "check": 1
+        },
+        "also␟check": {
+            "whether": 1
+        },
+        "check␟whether": {
+            "that": 1
+        },
+        "whether␟that": {
+            "information": 1
+        },
+        "that␟information": {
+            "is": 1
+        },
+        "information␟is": {
+            "reliable": 1
+        },
+        "is␟reliable": {
+            ".": 1
+        },
+        "reliable␟.": {
+            "Privacy": 1
+        },
+        ".␟privacy": {
+            ",": 1
+        },
+        "privacy␟,": {
+            "security": 1
+        },
+        ",␟security": {
+            "and": 1
+        },
+        "security␟and": {
+            "fairness": 1
+        },
+        "and␟fairness": {
+            "deserve": 1
+        },
+        "fairness␟deserve": {
+            "attention": 1
+        },
+        "deserve␟attention": {
+            "whenever": 1
+        },
+        "attention␟whenever": {
+            "new": 1
+        },
+        "whenever␟new": {
+            "systems": 1
+        },
+        "new␟systems": {
+            "are": 1
+        },
+        "systems␟are": {
+            "designed": 1
+        },
+        "are␟designed": {
+            ".": 1
+        },
+        "designed␟.": {
+            "Young": 1
+        },
+        ".␟young": {
+            "people": 1
+        },
+        "young␟people": {
+            "can": 1
+        },
+        "people␟can": {
+            "play": 1
+        },
+        "can␟play": {
+            "an": 1
+        },
+        "play␟an": {
+            "important": 1
+        },
+        "an␟important": {
+            "role": 1
+        },
+        "important␟role": {
+            "in": 1
+        },
+        "role␟in": {
+            "shaping": 1
+        },
+        "in␟shaping": {
+            "this": 1
+        },
+        "shaping␟this": {
+            "future": 1
+        },
+        "this␟future": {
+            ".": 1
+        },
+        "future␟.": {
+            "They": 1
+        },
+        ".␟they": {
+            "can": 1
+        },
+        "they␟can": {
+            "experiment": 1,
+            "turn": 1
+        },
+        "can␟experiment": {
+            ",": 1
+        },
+        "experiment␟,": {
+            "build": 1,
+            "we": 1
+        },
+        ",␟build": {
+            "projects": 1
+        },
+        "build␟projects": {
+            "and": 1
+        },
+        "projects␟and": {
+            "share": 1
+        },
+        "and␟share": {
+            "ideas": 1,
+            "suggestions": 1
+        },
+        "share␟ideas": {
+            "with": 1
+        },
+        "ideas␟with": {
+            "others": 1
+        },
+        "with␟others": {
+            ".": 1
+        },
+        "others␟.": {
+            "With": 1
+        },
+        ".␟with": {
+            "strong": 1
+        },
+        "with␟strong": {
+            "foundations": 1
+        },
+        "strong␟foundations": {
+            "and": 1
+        },
+        "foundations␟and": {
+            "a": 1
+        },
+        "and␟a": {
+            "willingness": 1
+        },
+        "a␟willingness": {
+            "to": 1
+        },
+        "to␟keep": {
+            "learning": 1
+        },
+        "keep␟learning": {
+            ",": 1
+        },
+        "learning␟,": {
+            "they": 1
+        },
+        ",␟they": {
+            "can": 1
+        },
+        "can␟turn": {
+            "challenges": 1
+        },
+        "turn␟challenges": {
+            "into": 1
+        },
+        "challenges␟into": {
+            "opportunities": 1
+        },
+        "into␟opportunities": {
+            ".": 1
+        },
+        "my␟dear": {
+            "friends": 1
+        },
+        "dear␟friends": {
+            ",": 2
+        },
+        ",␟leadership": {
+            "is": 1
+        },
+        "leadership␟is": {
+            "not": 1
+        },
+        "not␟simply": {
+            "about": 1
+        },
+        "simply␟about": {
+            "giving": 1
+        },
+        "about␟giving": {
+            "instructions": 1
+        },
+        "giving␟instructions": {
+            ".": 1
+        },
+        "instructions␟.": {
+            "It": 1
+        },
+        "is␟about": {
+            "listening": 1
+        },
+        "about␟listening": {
+            "carefully": 1
+        },
+        "listening␟carefully": {
+            ",": 1
+        },
+        "carefully␟,": {
+            "taking": 1
+        },
+        ",␟taking": {
+            "responsibility": 1
+        },
+        "taking␟responsibility": {
+            "and": 1
+        },
+        "responsibility␟and": {
+            "helping": 1
+        },
+        "and␟helping": {
+            "a": 1
+        },
+        "helping␟a": {
+            "group": 1,
+            "neighbour": 1
+        },
+        "a␟group": {
+            "move": 1
+        },
+        "group␟move": {
+            "towards": 1
+        },
+        "move␟towards": {
+            "a": 1
+        },
+        "towards␟a": {
+            "shared": 1
+        },
+        "a␟shared": {
+            "purpose": 1
+        },
+        "shared␟purpose": {
+            ".": 1
+        },
+        "purpose␟.": {
+            "A": 1
+        },
+        "good␟leader": {
+            "recognises": 1
+        },
+        "leader␟recognises": {
+            "the": 1
+        },
+        "recognises␟the": {
+            "strengths": 1
+        },
+        "the␟strengths": {
+            "of": 1
+        },
+        "strengths␟of": {
+            "others": 1
+        },
+        "of␟others": {
+            "and": 1
+        },
+        "others␟and": {
+            "creates": 1
+        },
+        "and␟creates": {
+            "an": 1
+        },
+        "creates␟an": {
+            "environment": 1
+        },
+        "an␟environment": {
+            "where": 1
+        },
+        "environment␟where": {
+            "everyone": 1
+        },
+        "where␟everyone": {
+            "can": 1
+        },
+        "everyone␟can": {
+            "contribute": 1
+        },
+        "can␟contribute": {
+            ".": 1
+        },
+        "contribute␟.": {
+            "There": 1
+        },
+        ".␟there": {
+            "will": 1
+        },
+        "there␟will": {
+            "always": 1
+        },
+        "will␟always": {
+            "be": 1
+        },
+        "always␟be": {
+            "moments": 1
+        },
+        "be␟moments": {
+            "when": 1
+        },
+        "moments␟when": {
+            "plans": 1
+        },
+        "when␟plans": {
+            "do": 1
+        },
+        "plans␟do": {
+            "not": 1
+        },
+        "do␟not": {
+            "work": 1
+        },
+        "not␟work": {
+            "as": 1
+        },
+        "work␟as": {
+            "expected": 1
+        },
+        "as␟expected": {
+            ".": 1
+        },
+        "expected␟.": {
+            "During": 1
+        },
+        ".␟during": {
+            "such": 1
+        },
+        "during␟such": {
+            "times": 1
+        },
+        "such␟times": {
+            ",": 1
+        },
+        "times␟,": {
+            "calm": 1
+        },
+        ",␟calm": {
+            "thinking": 1
+        },
+        "calm␟thinking": {
+            "is": 1
+        },
+        "thinking␟is": {
+            "more": 1
+        },
+        "is␟more": {
+            "useful": 1
+        },
+        "more␟useful": {
+            "than": 1
+        },
+        "useful␟than": {
+            "blame": 1
+        },
+        "than␟blame": {
+            ".": 1
+        },
+        "blame␟.": {
+            "We": 1
+        },
+        "should␟understand": {
+            "the": 1
+        },
+        "understand␟the": {
+            "problem": 1
+        },
+        "the␟problem": {
+            ",": 1
+        },
+        "problem␟,": {
+            "consider": 1
+        },
+        ",␟consider": {
+            "different": 1
+        },
+        "consider␟different": {
+            "solutions": 1
+        },
+        "different␟solutions": {
+            "and": 1
+        },
+        "solutions␟and": {
+            "learn": 1
+        },
+        "and␟learn": {
+            "from": 1
+        },
+        "learn␟from": {
+            "the": 1
+        },
+        "from␟the": {
+            "result": 1
+        },
+        "the␟result": {
+            ".": 1
+        },
+        "result␟.": {
+            "Honest": 1
+        },
+        ".␟honest": {
+            "feedback": 1
+        },
+        "honest␟feedback": {
+            "helps": 1
+        },
+        "feedback␟helps": {
+            "people": 1
+        },
+        "people␟and": {
+            "organisations": 1
+        },
+        "and␟organisations": {
+            "improve": 1
+        },
+        "organisations␟improve": {
+            ".": 1
+        },
+        "improve␟.": {
+            "Trust": 1
+        },
+        ".␟trust": {
+            "is": 1
+        },
+        "trust␟is": {
+            "built": 1
+        },
+        "through␟consistent": {
+            "actions": 1
+        },
+        "consistent␟actions": {
+            ".": 1
+        },
+        "actions␟.": {
+            "When": 1
+        },
+        "we␟keep": {
+            "our": 1
+        },
+        "keep␟our": {
+            "promises": 1
+        },
+        "our␟promises": {
+            ",": 1
+        },
+        "promises␟,": {
+            "treat": 1
+        },
+        ",␟treat": {
+            "people": 1
+        },
+        "treat␟people": {
+            "with": 1
+        },
+        "people␟with": {
+            "respect": 1
+        },
+        "with␟respect": {
+            "and": 1
+        },
+        "respect␟and": {
+            "explain": 1
+        },
+        "and␟explain": {
+            "our": 1
+        },
+        "explain␟our": {
+            "decisions": 1
+        },
+        "our␟decisions": {
+            "clearly": 1
+        },
+        "decisions␟clearly": {
+            ",": 1
+        },
+        "clearly␟,": {
+            "others": 1
+        },
+        ",␟others": {
+            "can": 1
+        },
+        "others␟can": {
+            "rely": 1
+        },
+        "can␟rely": {
+            "on": 1
+        },
+        "rely␟on": {
+            "us": 1
+        },
+        "on␟us": {
+            ".": 1
+        },
+        "us␟.": {
+            "These": 1
+        },
+        ".␟these": {
+            "habits": 1,
+            "actions": 1
+        },
+        "these␟habits": {
+            "make": 1
+        },
+        "habits␟make": {
+            "teamwork": 1
+        },
+        "make␟teamwork": {
+            "stronger": 1
+        },
+        "teamwork␟stronger": {
+            "and": 1
+        },
+        "stronger␟and": {
+            "help": 1
+        },
+        "and␟help": {
+            "a": 1
+        },
+        "help␟a": {
+            "community": 1
+        },
+        "a␟community": {
+            "face": 1
+        },
+        "community␟face": {
+            "difficult": 1
+        },
+        "face␟difficult": {
+            "situations": 1
+        },
+        "difficult␟situations": {
+            ".": 1
+        },
+        "hello␟everyone": {
+            ",": 1
+        },
+        "everyone␟,": {
+            "Innovation": 1
+        },
+        ",␟innovation": {
+            "often": 1
+        },
+        "innovation␟often": {
+            "begins": 1
+        },
+        "often␟begins": {
+            "with": 1
+        },
+        "with␟noticing": {
+            "a": 1
+        },
+        "noticing␟a": {
+            "problem": 1
+        },
+        "a␟problem": {
+            "that": 1
+        },
+        "problem␟that": {
+            "others": 1
+        },
+        "that␟others": {
+            "have": 1
+        },
+        "others␟have": {
+            "accepted": 1
+        },
+        "have␟accepted": {
+            "as": 1
+        },
+        "accepted␟as": {
+            "normal": 1
+        },
+        "as␟normal": {
+            ".": 1
+        },
+        "normal␟.": {
+            "A": 1
+        },
+        "a␟student": {
+            "may": 1
+        },
+        "student␟may": {
+            "find": 1
+        },
+        "may␟find": {
+            "a": 1
+        },
+        "find␟a": {
+            "better": 1
+        },
+        "a␟better": {
+            "way": 1
+        },
+        "better␟way": {
+            "to": 1
+        },
+        "way␟to": {
+            "organise": 1
+        },
+        "to␟organise": {
+            "study": 1
+        },
+        "organise␟study": {
+            "material": 1
+        },
+        "study␟material": {
+            ".": 1
+        },
+        "material␟.": {
+            "A": 1
+        },
+        "a␟farmer": {
+            "may": 1
+        },
+        "farmer␟may": {
+            "use": 1
+        },
+        "may␟use": {
+            "information": 1
+        },
+        "use␟information": {
+            "to": 1
+        },
+        "information␟to": {
+            "manage": 1
+        },
+        "to␟manage": {
+            "water": 1
+        },
+        "manage␟water": {
+            "more": 1
+        },
+        "water␟more": {
+            "carefully": 1
+        },
+        "more␟carefully": {
+            ".": 1
+        },
+        "carefully␟.": {
+            "A": 1
+        },
+        "a␟small": {
+            "business": 1,
+            "scale": 1
+        },
+        "small␟business": {
+            "may": 1
+        },
+        "business␟may": {
+            "improve": 1
+        },
+        "may␟improve": {
+            "its": 1
+        },
+        "improve␟its": {
+            "service": 1
+        },
+        "its␟service": {
+            "by": 1
+        },
+        "service␟by": {
+            "listening": 1
+        },
+        "by␟listening": {
+            "to": 1
+        },
+        "listening␟to": {
+            "customers": 1
+        },
+        "to␟customers": {
+            ".": 1
+        },
+        "customers␟.": {
+            "Not": 1
+        },
+        ".␟not": {
+            "every": 1
+        },
+        "not␟every": {
+            "idea": 1
+        },
+        "every␟idea": {
+            "will": 1
+        },
+        "idea␟will": {
+            "succeed": 1
+        },
+        "will␟succeed": {
+            "on": 1
+        },
+        "succeed␟on": {
+            "the": 1
+        },
+        "on␟the": {
+            "first": 1
+        },
+        "first␟attempt": {
+            ".": 1
+        },
+        "attempt␟.": {
+            "Testing": 1
+        },
+        ".␟testing": {
+            "an": 1
+        },
+        "testing␟an": {
+            "idea": 1
+        },
+        "an␟idea": {
+            "on": 1
+        },
+        "idea␟on": {
+            "a": 1
+        },
+        "on␟a": {
+            "small": 1
+        },
+        "small␟scale": {
+            "can": 1
+        },
+        "scale␟can": {
+            "reveal": 1
+        },
+        "can␟reveal": {
+            "what": 1
+        },
+        "reveal␟what": {
+            "works": 1
+        },
+        "what␟works": {
+            "and": 1
+        },
+        "works␟and": {
+            "what": 1
+        },
+        "and␟what": {
+            "needs": 1
+        },
+        "what␟needs": {
+            "to": 1
+        },
+        "needs␟to": {
+            "change": 1
+        },
+        "to␟change": {
+            ".": 1
+        },
+        "change␟.": {
+            "Instead": 1
+        },
+        ".␟instead": {
+            "of": 1
+        },
+        "of␟being": {
+            "discouraged": 1
+        },
+        "being␟discouraged": {
+            "by": 1
+        },
+        "discouraged␟by": {
+            "an": 1
+        },
+        "by␟an": {
+            "unsuccessful": 1
+        },
+        "an␟unsuccessful": {
+            "experiment": 1
+        },
+        "unsuccessful␟experiment": {
+            ",": 1
+        },
+        "we␟can": {
+            "treat": 1,
+            "work": 1,
+            "create": 1
+        },
+        "can␟treat": {
+            "it": 1
+        },
+        "treat␟it": {
+            "as": 1
+        },
+        "it␟as": {
+            "useful": 1
+        },
+        "as␟useful": {
+            "evidence": 1
+        },
+        "useful␟evidence": {
+            ".": 1
+        },
+        "evidence␟.": {
+            "Improvement": 1
+        },
+        ".␟improvement": {
+            "comes": 1
+        },
+        "improvement␟comes": {
+            "from": 1
+        },
+        "comes␟from": {
+            "observing": 1
+        },
+        "from␟observing": {
+            ",": 1
+        },
+        "observing␟,": {
+            "testing": 1
+        },
+        ",␟testing": {
+            "and": 1
+        },
+        "testing␟and": {
+            "refining": 1
+        },
+        "and␟refining": {
+            ".": 1
+        },
+        "refining␟.": {
+            "We": 1
+        },
+        "should␟make": {
+            "room": 1
+        },
+        "make␟room": {
+            "for": 1
+        },
+        "room␟for": {
+            "practical": 1
+        },
+        "for␟practical": {
+            "creativity": 1
+        },
+        "practical␟creativity": {
+            "in": 1
+        },
+        "creativity␟in": {
+            "schools": 1
+        },
+        "in␟schools": {
+            ",": 1
+        },
+        "schools␟,": {
+            "workplaces": 1
+        },
+        ",␟workplaces": {
+            "and": 1
+        },
+        "workplaces␟and": {
+            "communities": 1
+        },
+        "and␟communities": {
+            ".": 1
+        },
+        "communities␟.": {
+            "When": 1
+        },
+        "people␟are": {
+            "encouraged": 1
+        },
+        "are␟encouraged": {
+            "to": 1
+        },
+        "encouraged␟to": {
+            "ask": 1
+        },
+        "questions␟and": {
+            "share": 1
+        },
+        "share␟suggestions": {
+            ",": 1
+        },
+        "suggestions␟,": {
+            "useful": 1
+        },
+        ",␟useful": {
+            "solutions": 1
+        },
+        "useful␟solutions": {
+            "can": 1
+        },
+        "solutions␟can": {
+            "emerge": 1
+        },
+        "can␟emerge": {
+            "from": 1
+        },
+        "emerge␟from": {
+            "unexpected": 1
+        },
+        "from␟unexpected": {
+            "places": 1
+        },
+        "unexpected␟places": {
+            ".": 1
+        },
+        ",␟a": {
+            "healthy": 1
+        },
+        "a␟healthy": {
+            "society": 1
+        },
+        "healthy␟society": {
+            "depends": 1
+        },
+        "society␟depends": {
+            "on": 1
+        },
+        "depends␟on": {
+            "cooperation": 1
+        },
+        "on␟cooperation": {
+            ".": 1
+        },
+        "cooperation␟.": {
+            "People": 1
+        },
+        ".␟people": {
+            "may": 1
+        },
+        "people␟may": {
+            "have": 1
+        },
+        "may␟have": {
+            "different": 1
+        },
+        "have␟different": {
+            "experiences": 1
+        },
+        "different␟experiences": {
+            ",": 1
+        },
+        "experiences␟,": {
+            "opinions": 1
+        },
+        ",␟opinions": {
+            "and": 1
+        },
+        "opinions␟and": {
+            "ambitions": 1
+        },
+        "and␟ambitions": {
+            ",": 1
+        },
+        "ambitions␟,": {
+            "but": 1
+        },
+        "but␟they": {
+            "share": 1
+        },
+        "they␟share": {
+            "many": 1
+        },
+        "share␟many": {
+            "common": 1
+        },
+        "many␟common": {
+            "needs": 1
+        },
+        "common␟needs": {
+            ".": 1
+        },
+        "needs␟.": {
+            "Respectful": 1
+        },
+        ".␟respectful": {
+            "conversation": 1
+        },
+        "respectful␟conversation": {
+            "helps": 1
+        },
+        "conversation␟helps": {
+            "us": 1
+        },
+        "helps␟us": {
+            "understand": 1
+        },
+        "us␟understand": {
+            "those": 1
+        },
+        "understand␟those": {
+            "differences": 1
+        },
+        "those␟differences": {
+            "and": 1
+        },
+        "differences␟and": {
+            "find": 1
+        },
+        "and␟find": {
+            "areas": 1
+        },
+        "find␟areas": {
+            "where": 1
+        },
+        "areas␟where": {
+            "we": 1
+        },
+        "where␟we": {
+            "can": 1
+        },
+        "can␟work": {
+            "together": 1
+        },
+        "work␟together": {
+            ".": 1
+        },
+        "together␟.": {
+            "Public": 1
+        },
+        ".␟public": {
+            "spaces": 1
+        },
+        "public␟spaces": {
+            ",": 1
+        },
+        "spaces␟,": {
+            "clean": 1
+        },
+        ",␟clean": {
+            "surroundings": 1
+        },
+        "clean␟surroundings": {
+            "and": 1
+        },
+        "surroundings␟and": {
+            "access": 1
+        },
+        "and␟access": {
+            "to": 1
+        },
+        "to␟learning": {
+            "are": 1
+        },
+        "learning␟are": {
+            "responsibilities": 1
+        },
+        "are␟responsibilities": {
+            "that": 1
+        },
+        "responsibilities␟that": {
+            "involve": 1
+        },
+        "that␟involve": {
+            "everyone": 1
+        },
+        "involve␟everyone": {
+            ".": 1
+        },
+        ".␟small": {
+            "actions": 1
+        },
+        "actions␟matter": {
+            ":": 1
+        },
+        "matter␟:": {
+            "saving": 1
+        },
+        ":␟saving": {
+            "water": 1
+        },
+        "saving␟water": {
+            ",": 1
+        },
+        "water␟,": {
+            "keeping": 1
+        },
+        ",␟keeping": {
+            "shared": 1
+        },
+        "keeping␟shared": {
+            "places": 1
+        },
+        "shared␟places": {
+            "clean": 1
+        },
+        "places␟clean": {
+            ",": 1
+        },
+        "clean␟,": {
+            "helping": 1
+        },
+        ",␟helping": {
+            "a": 1
+        },
+        "a␟neighbour": {
+            "and": 1
+        },
+        "neighbour␟and": {
+            "using": 1
+        },
+        "and␟using": {
+            "resources": 1
+        },
+        "using␟resources": {
+            "thoughtfully": 1
+        },
+        "resources␟thoughtfully": {
+            ".": 1
+        },
+        "thoughtfully␟.": {
+            "These": 1
+        },
+        "these␟actions": {
+            "may": 1
+        },
+        "actions␟may": {
+            "seem": 1
+        },
+        "may␟seem": {
+            "ordinary": 1
+        },
+        "seem␟ordinary": {
+            ",": 1
+        },
+        "ordinary␟,": {
+            "yet": 1
+        },
+        ",␟yet": {
+            "together": 1
+        },
+        "yet␟together": {
+            "they": 1
+        },
+        "together␟they": {
+            "improve": 1
+        },
+        "they␟improve": {
+            "everyday": 1
+        },
+        "improve␟everyday": {
+            "life": 1
+        },
+        "everyday␟life": {
+            ".": 1
+        },
+        "us␟measure": {
+            "progress": 1
+        },
+        "measure␟progress": {
+            "not": 1
+        },
+        "progress␟not": {
+            "only": 1
+        },
+        "not␟only": {
+            "by": 1
+        },
+        "only␟by": {
+            "what": 1
+        },
+        "by␟what": {
+            "we": 1
+        },
+        "what␟we": {
+            "build": 1
+        },
+        "we␟build": {
+            ",": 1
+        },
+        "build␟,": {
+            "but": 1
+        },
+        "but␟also": {
+            "by": 1
+        },
+        "also␟by": {
+            "how": 1
+        },
+        "by␟how": {
+            "we": 1
+        },
+        "how␟we": {
+            "care": 1
+        },
+        "we␟care": {
+            "for": 1
+        },
+        "care␟for": {
+            "one": 1
+        },
+        "for␟one": {
+            "another": 1
+        },
+        "another␟.": {
+            "If": 1
+        },
+        ".␟if": {
+            "we": 1
+        },
+        "if␟we": {
+            "combine": 1
+        },
+        "we␟combine": {
+            "knowledge": 1
+        },
+        "combine␟knowledge": {
+            "with": 1
+        },
+        "knowledge␟with": {
+            "kindness": 1
+        },
+        "with␟kindness": {
+            "and": 1
+        },
+        "kindness␟and": {
+            "effort": 1
+        },
+        "and␟effort": {
+            "with": 1
+        },
+        "effort␟with": {
+            "responsibility": 1
+        },
+        "with␟responsibility": {
+            ",": 1
+        },
+        "responsibility␟,": {
+            "we": 1
+        },
+        "can␟create": {
+            "communities": 1
+        },
+        "create␟communities": {
+            "in": 1
+        },
+        "communities␟in": {
+            "which": 1
+        },
+        "in␟which": {
+            "more": 1
+        },
+        "which␟more": {
+            "people": 1
+        },
+        "more␟people": {
+            "have": 1
+        },
+        "people␟have": {
+            "the": 1
+        },
+        "have␟the": {
+            "opportunity": 1
+        },
+        "the␟opportunity": {
+            "to": 1
+        },
+        "opportunity␟to": {
+            "succeed": 1
+        },
+        "to␟succeed": {
+            ".": 1
+        }
+    },
+    "starts": [
+        [
+            "good",
+            "morning"
+        ],
+        [
+            "every",
+            "meaningful"
+        ],
+        [
+            "progress",
+            "is"
+        ],
+        [
+            "it",
+            "is"
+        ],
+        [
+            "when",
+            "we"
+        ],
+        [
+            "education",
+            "gives"
+        ],
+        [
+            "a",
+            "good"
+        ],
+        [
+            "it",
+            "encourages"
+        ],
+        [
+            "students",
+            "should"
+        ],
+        [
+            "the",
+            "future"
+        ],
+        [
+            "let",
+            "us"
+        ],
+        [
+            "a",
+            "strong"
+        ],
+        [
+            "friends",
+            ","
+        ],
+        [
+            "it",
+            "helps"
+        ],
+        [
+            "a",
+            "useful"
+        ],
+        [
+            "we",
+            "should"
+        ],
+        [
+            "digital",
+            "tools"
+        ],
+        [
+            "privacy",
+            ","
+        ],
+        [
+            "young",
+            "people"
+        ],
+        [
+            "they",
+            "can"
+        ],
+        [
+            "with",
+            "strong"
+        ],
+        [
+            "my",
+            "dear"
+        ],
+        [
+            "it",
+            "is"
+        ],
+        [
+            "a",
+            "good"
+        ],
+        [
+            "there",
+            "will"
+        ],
+        [
+            "during",
+            "such"
+        ],
+        [
+            "we",
+            "should"
+        ],
+        [
+            "honest",
+            "feedback"
+        ],
+        [
+            "trust",
+            "is"
+        ],
+        [
+            "when",
+            "we"
+        ],
+        [
+            "these",
+            "habits"
+        ],
+        [
+            "hello",
+            "everyone"
+        ],
+        [
+            "a",
+            "student"
+        ],
+        [
+            "a",
+            "farmer"
+        ],
+        [
+            "a",
+            "small"
+        ],
+        [
+            "not",
+            "every"
+        ],
+        [
+            "testing",
+            "an"
+        ],
+        [
+            "instead",
+            "of"
+        ],
+        [
+            "improvement",
+            "comes"
+        ],
+        [
+            "we",
+            "should"
+        ],
+        [
+            "when",
+            "people"
+        ],
+        [
+            "dear",
+            "friends"
+        ],
+        [
+            "people",
+            "may"
+        ],
+        [
+            "respectful",
+            "conversation"
+        ],
+        [
+            "public",
+            "spaces"
+        ],
+        [
+            "small",
+            "actions"
+        ],
+        [
+            "these",
+            "actions"
+        ],
+        [
+            "let",
+            "us"
+        ],
+        [
+            "if",
+            "we"
+        ]
+    ]
+}
